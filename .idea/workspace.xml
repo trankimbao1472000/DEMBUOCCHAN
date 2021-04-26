@@ -46,7 +46,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-22T10:03:19.511Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/LT Android/VideoView_BuiXuanHieu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Android App.DEMBUOCCHAN">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -207,10 +207,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1619108539124">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1619431536104">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1619108539124" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1619431536104" />
     <state width="1476" height="211" key="GridCell.Tab.0.bottom" timestamp="1619086484463">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
