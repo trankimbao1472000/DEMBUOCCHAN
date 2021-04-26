@@ -102,31 +102,7 @@ public class Activity_Main extends FragmentActivity {
                         Uri.parse("http://j4velin.de/faq/index.php?app=pm"))
                         .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
                 break;
-            case R.id.action_about:
-                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle(R.string.about);
-                TextView tv = new TextView(this);
-                tv.setPadding(10, 10, 10, 10);
-                tv.setText(R.string.about_text_links);
-                try {
-                    tv.append(getString(R.string.about_app_version,
-                            getPackageManager().getPackageInfo(getPackageName(), 0).versionName));
-                } catch (NameNotFoundException e1) {
-                    // should not happen as the app is definitely installed when
-                    // seeing the dialog
-                    e1.printStackTrace();
-                }
-                tv.setMovementMethod(LinkMovementMethod.getInstance());
-                builder.setView(tv);
-                builder.setPositiveButton(android.R.string.ok,
-                        new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(final DialogInterface dialog, int which) {
-                                dialog.dismiss();
-                            }
-                        });
-                builder.create().show();
-                break;
+
         }
         return true;
     }

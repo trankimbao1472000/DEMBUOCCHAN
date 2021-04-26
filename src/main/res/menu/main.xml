@@ -24,10 +24,5 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/split_count"/>
-    <item
-        android:id="@+id/action_about"
-        android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/about"/>
 
 </menu>
