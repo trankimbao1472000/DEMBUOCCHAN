@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="about">Névjegy</string>
+    <string name="about_app_version">App verzió: %s</string>
+    <string name="about_text_links">Ezt a programot Thomas Hoffmann készítette (<a href="https://www.j4velin.de">www.j4velin.de</a>) és felhasználja:<a href="https://github.com/blackfizz/EazeGraph">az EazeGraph-ot
+    </a> Paul Cech-től és <a href="https://github.com/attenzione/android-ColorPickerPreference">a
+        ColorPickerPreference programot
+    </a> Sergey Margaritov-tól.\n\nA Pedometer nyílt forráskódú program! A forráskódot és a
+        közreműködők teljes listáját itt találod: <a href="https://github.com/j4velin/Pedometer">
+            GitHub</a>.
+    </string>
+    <string name="account">Fiók</string>
+    <string name="achievements">Kitüntetések</string>
+    <string name="app_name">Pedometer</string>
+    <string name="average">Átlag</string>
+    <string name="average_last_7_days">Utolsó 7 nap átlaga</string>
+    <string name="average_this_month">E hónap átlaga</string>
+    <string name="background_color">Háttér szín:</string>
+    <string name="close">bezár</string>
+    <string name="data_saved">Adat elmentve ide: %s</string>
+    <string name="entries_ignored">%d bejegyzés figyelmen kívül lett hagyva, mert nem tartalmazott
+        érvényes adatokat
+    </string>
+    <string name="entries_imported">%d bejegyzés importálva</string>
+    <string name="entries_overwritten">%d bejegyzés felül lett írva az importált adatokkal</string>
+    <string name="error_external_storage_not_available">Hiba: külső tárhely nem elérhető</string>
+    <string name="error_file">Hiba történt a %s fájl elérése közben</string>
+    <string name="export_summary">Mentse adatait .csv fájlba</string>
+    <string name="export_title">Exportálás/Mentés</string>
+    <string name="faq">GYIK</string>
+    <string name="file_already_exists">A fájl már létezik. Biztos benne, hogy felülírja?</string>
+    <string name="file_cant_read">Hiba: %s nem olvasható</string>
+    <string name="goal">Cél</string>
+    <string name="goal_reached_notification">Cél elérve! %s lépés és számuk nő</string>
+    <string name="goal_summary">Jelenlegi cél: %,d lépés</string>
+    <string name="import_summary">Importálja az előzőleg mentett adatokat</string>
+    <string name="import_title">Importálás/Visszaállítás</string>
+    <string name="ispaused">Pedometer megállítva</string>
+    <string name="leaderboard">Ranglista</string>
+    <string name="no_sensor">Nem található szenzor</string>
+    <string name="no_sensor_explain">Ez az alkalmazás egy külön hardveres lépésérzékelőt igényel -
+        amellyel a készülék nem rendelkezik. Ez az alkalmazás nem fog futni a készüléken.
+    </string>
+    <string name="no_split_active">Nincs aktív megosztott számláló. Kattints a lépés számlálás
+        megkezdéséhez
+    </string>
+    <string name="notification">Értesítések mutatása</string>
+    <string name="notification_text">%s lépés kell még</string>
+    <string name="notification_title">A Pedometer számol</string>
+    <string name="pause">Megállít</string>
+    <string name="pause_on_power_summary">Szüneteltesse a Lépésszámlálót az eszköz töltése közben
+    </string>
+    <string name="pause_on_power_title">Szüneteljen töltés közben</string>
+    <string name="permission_external_storage">Nincs engedély a külső tárhely elérésére</string>
+    <string name="please_sign_in_with_your_google_account">A funkció használatához jelentkezzen be
+        Google+ fiókjával.
+    </string>
+    <string name="record">Felvétel</string>
+    <string name="resume">Folytat</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="set_goal">Cél beállítása</string>
+    <string name="set_step_size">Lépéshossz beállítása</string>
+    <string name="settings">Beállítások</string>
+    <string name="sign_in">Jelentkezzen be Google-fiókjával az Eredmények és a Ranglisták funkciók
+        használatához
+    </string>
+    <string name="sign_in_necessary">Bejelentkezés szükséges</string>
+    <string name="sign_out">Kijelentkezés</string>
+    <string name="signed_in">Bejelentkezve mint %s</string>
+    <string name="since">%s óta</string>
+    <string name="split_count">Osztott számlálás</string>
+    <string name="start">Indít</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_size">Lépés méret</string>
+    <string name="step_size_summary">Jelenlegi lépésméret: %1$.2f %2$s</string>
+    <string name="steps">lépések</string>
+    <string name="stop">Állj</string>
+    <string name="text_color">Szöveg színe:</string>
+    <string name="total">Összes</string>
+    <string name="total_last_7_days">7 napi összesen</string>
+    <string name="total_this_month">E hónapi összesen</string>
+    <string name="your_progress_will_be_shown_here_soon">E hónapi összesen</string>
+</resources>

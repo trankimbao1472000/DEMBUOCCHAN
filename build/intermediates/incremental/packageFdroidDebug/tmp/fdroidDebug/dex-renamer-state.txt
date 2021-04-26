@@ -1,0 +1,4 @@
+#Mon Apr 26 17:06:27 ICT 2021
+base.0=D\:\\DEMBUOCCHAN\\build\\intermediates\\dex\\fdroidDebug\\mergeDexFdroidDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

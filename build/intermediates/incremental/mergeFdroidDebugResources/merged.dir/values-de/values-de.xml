@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Info</string>
+    <string name="about_app_version">App Version: %s</string>
+    <string name="about_text_links">Diese App wurde von Thomas Hoffmann (<a href="https://www.j4velin.de">www.j4velin.de</a>) erstellt und verwendet <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a> von Paul Cech und <a href="https://github.com/attenzione/android-ColorPickerPreference">ColorPickerPreference</a> von Sergey Margaritov.\n\nDie App ist Open-Source! Der Quellcode und die vollständige Liste alle Mitwirkenden kann auf <a href="https://github.com/j4velin/Pedometer">GitHub</a> eingesehen werden.\n\n</string>
+    <string name="account">Konto</string>
+    <string name="achievements">Errungenschaften</string>
+    <string name="app_name">Schrittzähler</string>
+    <string name="average">Durchschnitt</string>
+    <string name="average_last_7_days">Durchschnitt der letzten 7 Tage</string>
+    <string name="average_this_month">Durchschnitt diesen Monat</string>
+    <string name="background_color">Hintergrund-Farbe:</string>
+    <string name="close">schließen</string>
+    <string name="data_saved">Daten gespeichert in %s</string>
+    <string name="entries_ignored">%d Einträge wurden ignoriert, da diese in keinem gültigen Format vorlagen</string>
+    <string name="entries_imported">%d Einträge wurden importiert</string>
+    <string name="error_external_storage_not_available">Fehler: Externer Speicher ist momentan nicht verfügbar</string>
+    <string name="error_file">Fehler beim Zugriff auf die Datei: %s</string>
+    <string name="export_summary">Sichere deine Daten in einer .csv Datei</string>
+    <string name="export_title">Exportieren</string>
+    <string name="faq">FAQ</string>
+    <string name="file_already_exists">Datei existiert bereits. Bist du sicher, dass du diese überschreiben willst?</string>
+    <string name="file_cant_read">Fehler: %s kann nicht gelesen werden</string>
+    <string name="goal">Ziel</string>
+    <string name="goal_reached_notification">Ziel erreicht! Schon über %s Schritte</string>
+    <string name="goal_summary">Aktuelles Ziel: %,d Schritte</string>
+    <string name="import_summary">Lade Daten aus einer .csv Datei</string>
+    <string name="import_title">Importieren</string>
+    <string name="ispaused">Schrittzähler pausiert</string>
+    <string name="leaderboard">Bestenliste</string>
+    <string name="no_sensor">Sensor nicht gefunden</string>
+    <string name="no_sensor_explain">Diese App benötigt einen dedizierten Hardware Schritt-Zähler Sensor - dein Gerät scheint einen solchen aber nicht zu besitzen. Die App wird auf diesem Gerät daher nicht funktionieren.</string>
+    <string name="no_split_active">Kein Split-Counter aktiv. Klicke auf Start um die Schritte ab jetzt zu zählen.</string>
+    <string name="notification">Zeige Benachrichtigung</string>
+    <string name="notification_text">Ziel wird in %s Schritten erreicht</string>
+    <string name="notification_title">Schrittzähler aktiv</string>
+    <string name="pause">Pause</string>
+    <string name="pause_on_power_summary">Pausiere Schrittzähler während das Gerät geladen wird</string>
+    <string name="pause_on_power_title">Beim Laden pausieren</string>
+    <string name="please_sign_in_with_your_google_account">Bitte logge dich mit deinem Google+ Konto ein um diese Funktion zu nutzen.</string>
+    <string name="record">Rekord</string>
+    <string name="resume">Forsetzen</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="set_goal">Ziel setzen</string>
+    <string name="set_step_size">Schrittweite ändern</string>
+    <string name="settings">Einstellungen</string>
+    <string name="sign_in">Logge dich mit deinem Google Konto ein um Erfolge zu sammeln und die Bestenslisten zu nutzen</string>
+    <string name="sign_in_necessary">Login erforderlich</string>
+    <string name="sign_out">Ausloggen</string>
+    <string name="signed_in">Eingeloggt als %s</string>
+    <string name="since">Seit %s</string>
+    <string name="split_count">Split-Counter</string>
+    <string name="start">Start</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_size">Schrittweite</string>
+    <string name="step_size_summary">Aktuelle Schrittweite: %1$.2f %2$s</string>
+    <string name="steps">Schritte</string>
+    <string name="stop">Stop</string>
+    <string name="text_color">Text-Farbe:</string>
+    <string name="total">Gesamt</string>
+    <string name="total_last_7_days">Gesamt letzte 7 Tage</string>
+    <string name="total_this_month">Gesamt diesen Monat</string>
+    <string name="your_progress_will_be_shown_here_soon">Dein Fortschritt wird bald aktualisiert</string>
+</resources>

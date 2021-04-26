@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="about">A propos</string>
+    <string name="about_app_version">Version: %s</string>
+    <string name="about_text_links">Cette application est créée par Thomas Hoffmann (<a href="https://www.j4velin.de">www.j4velin.de</a>) and utilise <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a> par Paul Cech et <a href="https://github.com/attenzione/android-ColorPickerPreference">ColorPickerPreference</a> par Sergey Margaritov.\n\nPodomètre est open source! Récupérez le code and toute la liste des contributeurs sur <a href="https://github.com/j4velin/Pedometer">GitHub</a>.\n\n</string>
+    <string name="account">Compte</string>
+    <string name="achievements">Objectifs atteints</string>
+    <string name="app_name">Podomètre</string>
+    <string name="average">Moyenne</string>
+    <string name="average_last_7_days">Moyenne des 7 derniers jours</string>
+    <string name="average_this_month">Moyenne mensuelle</string>
+    <string name="background_color">Couleur de fond:</string>
+    <string name="close">fermeture</string>
+    <string name="data_saved">Données sauvegardées dans %s</string>
+    <string name="entries_ignored">%d entrées sont ignorées pour cause de données invalides</string>
+    <string name="entries_imported">%d entrées importées</string>
+    <string name="error_external_storage_not_available">Erreur: Espace de stockage non disponible</string>
+    <string name="error_file">Impossible de lire le fichier: %s</string>
+    <string name="export_summary">Sauvegardez vos données dans un fichier .csv</string>
+    <string name="export_title">Exporter/Sauvegarder</string>
+    <string name="faq">FAQ</string>
+    <string name="file_already_exists">Ce fichier existe déjà. Etes-vous sûr de vouloir l\'écraser?</string>
+    <string name="file_cant_read">Erreur: %s ne peut pas être lu</string>
+    <string name="goal">Objectif</string>
+    <string name="goal_reached_notification">Objectif atteint! %s pas enregistrés</string>
+    <string name="goal_summary">Objectif en cours: %,d pas</string>
+    <string name="import_summary">Importer les données sauvegardées</string>
+    <string name="import_title">Importer/Restaurer</string>
+    <string name="ispaused">Podomètre en pause</string>
+    <string name="leaderboard">Classement</string>
+    <string name="no_split_active">Compteur non actif. Cliquez pour activer le comptage de pas</string>
+    <string name="notification">Activer les notifications</string>
+    <string name="notification_text">%s pas à faire</string>
+    <string name="notification_title">Podomètre compte</string>
+    <string name="pause">Pause</string>
+    <string name="pause_on_power_summary">Stopper Podomètre pendant la charge du périphérique</string>
+    <string name="pause_on_power_title">Pause prendant la charge</string>
+    <string name="please_sign_in_with_your_google_account">Merci de vous enregistrer avec votre compte Google+ pour utiliser cette fonctionnalité.</string>
+    <string name="record">Record</string>
+    <string name="resume">Reprendre</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="set_goal">Fixer objectif</string>
+    <string name="set_step_size">Fixer l\'unité de pas</string>
+    <string name="settings">Paramètres</string>
+    <string name="sign_in">Enregistrez-vous avec votre compte Google pour consulter les objectifs atteints et les classements</string>
+    <string name="sign_in_necessary">Enregistrement nécessaire</string>
+    <string name="sign_out">Déconnecter</string>
+    <string name="signed_in">Enregistrez-vous en tant que %s</string>
+    <string name="since">Depuis %s</string>
+    <string name="split_count">Activer le comptage</string>
+    <string name="start">Départ</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="step_size">Unité de pas</string>
+    <string name="step_size_summary">Unité de pas actuelle: %1$.2f %2$s</string>
+    <string name="steps">pas</string>
+    <string name="stop">Stop</string>
+    <string name="text_color">Couleur de texte:</string>
+    <string name="total">Total</string>
+    <string name="total_last_7_days">Total des 7 derniers jours</string>
+    <string name="total_this_month">Total mensuel</string>
+    <string name="your_progress_will_be_shown_here_soon">Votre progression apparaîtra bientôt ici</string>
+</resources>

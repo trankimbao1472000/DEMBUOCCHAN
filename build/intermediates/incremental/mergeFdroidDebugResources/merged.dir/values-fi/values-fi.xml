@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Jaa sovelluksessa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="about">Tiedot</string>
+    <string name="about_app_version">Sovelluksen versio: %s</string>
+    <string name="about_text_links">Tämän sovelluksen teki Thomas Hoffmann (<a href="https://www.j4velin.de">www.j4velin.de</a>) käyttäen <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a> (Paul Cech) ja <a href="https://github.com/attenzione/android-ColorPickerPreference">ColorPickerPreference</a> (Sergey Margaritov).\n\nAskelmittari on avoimen lähdekoodin sovellus! Lähdekoodi sekä kaikkien avustajien lista löytyy täältä: <a href="https://github.com/j4velin/Pedometer">GitHub</a>.\n\n</string>
+    <string name="account">Tili</string>
+    <string name="achievements">Saavutukset</string>
+    <string name="app_name">Askelmittari</string>
+    <string name="average">Keskiarvo</string>
+    <string name="average_last_7_days">Keskiarvo viimeisenä 7 päivänä</string>
+    <string name="average_this_month">Keskiarvo tässä kuussa</string>
+    <string name="background_color">Taustan väri:</string>
+    <string name="close">Sulje</string>
+    <string name="data_saved">Tiedot tallennettu tiedostoon %s</string>
+    <string name="entries_ignored">%d merkintää ei huomioitu koska ne eivät olleet oikeassa muodossa</string>
+    <string name="entries_imported">%d merkintää tuotu</string>
+    <string name="entries_overwritten">%d merkintää ylikirjoitettiin tuoduilla tiedoilla</string>
+    <string name="error_external_storage_not_available">Virhe: Ulkoinen tallennustila ei saatavilla</string>
+    <string name="error_file">Virhe käsiteltäessä tiedostoa: %s</string>
+    <string name="export_summary">Tallenna tiedot .csv -tiedostoon</string>
+    <string name="export_title">Vie tiedostoon</string>
+    <string name="faq">FAQ</string>
+    <string name="file_already_exists">Tiedosto on jo olemassa. Haluatko ylikirjoittaa sen?</string>
+    <string name="file_cant_read">Virhe: %s ei voitu lukea</string>
+    <string name="goal">Tavoite</string>
+    <string name="goal_reached_notification">Tavoite saavutettu! %s askelta jo</string>
+    <string name="goal_summary">Nykyinen tavoite: %,d askelta</string>
+    <string name="import_summary">Tuo aiemmin tallennetut tiedot</string>
+    <string name="import_title">Tuo tiedostosta</string>
+    <string name="leaderboard">Tulostaulu</string>
+    <string name="no_sensor">Sensoria ei löydetty</string>
+    <string name="no_sensor_explain">Tämä sovellus tarvitsee erillisen laitteistosensorin jota laittessasi ei ole. Sovellus ei toimi laitteessasi.</string>
+    <string name="no_split_active">Ei aktiivista alilaskuria. Paina Aloita aloittaaksesi askelten laskemisen tästä hetkestä lähtien.</string>
+    <string name="notification">Näytä ilmoitus</string>
+    <string name="notification_text">%s askelta tavoitteeseen</string>
+    <string name="notification_title">Askelmittari laskee</string>
+    <string name="permission_external_storage">Ei lupaa ulkoisen muistin käsittelyyn</string>
+    <string name="please_sign_in_with_your_google_account">Kirjaudu sisään Google+ -tililläsi käyttääksesi tätä ominaisuutta.</string>
+    <string name="record">Ennätys</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <string name="set_goal">Aseta tavoite</string>
+    <string name="set_step_size">Aseta askeleen koko</string>
+    <string name="settings">Asetukset</string>
+    <string name="sign_in">Kirjaudu sisään Google-tililläsi käyttääksesi Saavutuksia ja Tulostaulua</string>
+    <string name="sign_in_necessary">Sisäänkirjautuminen vaadittu</string>
+    <string name="sign_out">Kirjaudu ulos</string>
+    <string name="signed_in">Kirjauduttu sisään käyttäjänä %s</string>
+    <string name="since">Aloitettu: %s</string>
+    <string name="split_count">Alilaskuri</string>
+    <string name="start">Aloita</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_size">Askeleen koko</string>
+    <string name="step_size_summary">Nykyinen askeleen koko: %1$.2f %2$s</string>
+    <string name="steps">askelta</string>
+    <string name="stop">Lopeta</string>
+    <string name="text_color">Tekstin väri:</string>
+    <string name="total">Yhteensä</string>
+    <string name="total_last_7_days">Yhteensä viimeisenä 7 päivänä</string>
+    <string name="total_this_month">Yhteensä tässä kuussa</string>
+    <string name="your_progress_will_be_shown_here_soon">Tuloksesi näytetään tässä piakkoin</string>
+</resources>

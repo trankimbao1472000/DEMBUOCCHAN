@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9ee070f938f6ccda498af78bad834455\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7ba225a79209e46d6601e2dd216014ca\palette-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a4b14befa0075245fc43b4827a5982a2\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f1653ccc3332caa4f72e05449b1a895d\recyclerview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f9427f5ddff2b215fb82bf2793594edb\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:7:5-33
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:4:5-63
+	android:versionCode
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:9:5-46
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:9:5-46
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9ee070f938f6ccda498af78bad834455\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9ee070f938f6ccda498af78bad834455\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7ba225a79209e46d6601e2dd216014ca\palette-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7ba225a79209e46d6601e2dd216014ca\palette-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a4b14befa0075245fc43b4827a5982a2\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a4b14befa0075245fc43b4827a5982a2\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f1653ccc3332caa4f72e05449b1a895d\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f1653ccc3332caa4f72e05449b1a895d\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f9427f5ddff2b215fb82bf2793594edb\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f9427f5ddff2b215fb82bf2793594edb\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:9:5-46
+	android:targetSdkVersion
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:9:15-44
+	android:minSdkVersion
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:9:5-46
+		INJECTED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:11:5-13:34
+	android:required
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:12:9-59
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:17:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:18:5-94
+	android:maxSdkVersion
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:18:66-92
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:18:22-65
+application
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:20:5-90:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:23:9-41
+		REJECTED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\080bd1c46f3a7989354737ec07a60067\EazeGraph-1.0.3\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:24:9-79
+	tools:replace
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:25:9-30
+activity#de.j4velin.pedometer.ui.Activity_Main
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:29:13-45
+	android:launchMode
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:34:27-74
+receiver#de.j4velin.pedometer.BootReceiver
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:38:9-42:20
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:38:19-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:40:25-76
+receiver#de.j4velin.pedometer.AppUpdatedReceiver
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:43:19-53
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:44:13-46:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:45:17-83
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:45:25-81
+service#de.j4velin.pedometer.SensorListener
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:49:9-50:45
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:50:13-43
+service#de.j4velin.pedometer.widget.DashClock
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:52:9-68:19
+	android:permission
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:54:13-98
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:53:13-45
+intent-filter#action:name:com.google.android.apps.dashclock.Extension
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:55:13-57:29
+action#com.google.android.apps.dashclock.Extension
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:56:25-83
+meta-data#protocolVersion
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:59:13-61:36
+	android:value
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:61:17-34
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:60:17-47
+meta-data#worldReadable
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:62:13-64:39
+	android:value
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:63:17-45
+meta-data#description
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:65:13-67:65
+	android:value
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:67:17-63
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:66:17-43
+activity#de.j4velin.pedometer.widget.WidgetConfig
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:70:9-76:20
+	android:theme
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:72:13-73
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:71:13-48
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:73:13-75:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:74:17-86
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:74:25-84
+receiver#de.j4velin.pedometer.widget.Widget
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:78:9-86:20
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:78:19-48
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:79:13-81:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:80:17-83
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:80:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:83:13-85:49
+	android:resource
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:85:17-47
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:84:17-58
+service#de.j4velin.pedometer.widget.WidgetUpdateService
+ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:88:9-89:76
+	android:exported
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:88:61-84
+	android:permission
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:89:18-74
+	android:name
+		ADDED from D:\DEMBUOCCHAN\src\main\AndroidManifest.xml:88:18-60
+activity#de.j4velin.lib.colorpicker.ExtractFromPhoto
+ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:12:9-15:54
+	android:hardwareAccelerated
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:14:13-48
+	android:theme
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b11462dc63e7a9e748fa1b823191bea3\colorpicker-1.20.6\AndroidManifest.xml:13:13-71

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="about">Om</string>
+    <string name="about_app_version">Appens version: %s</string>
+    <string name="about_text_links">Den här appen skapades av Thomas Hoffmann (<a href="http://www.j4velin-development.de">www.j4velin-development.de</a>) och använder <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a> av Paul Cech och <a href="https://github.com/attenzione/android-ColorPickerPreference">ColorPickerPreference</a> av Sergey Margaritov.\n\nPedometer är öppen källkod! Hämta koden och en fullständig lista på de som bidragit på <a href="https://github.com/j4velin/Pedometer">GitHub</a>.\n\n</string>
+    <string name="account">Konto</string>
+    <string name="achievements">Prestationer</string>
+    <string name="app_name">Pedometer</string>
+    <string name="average">Genomsnitt</string>
+    <string name="average_last_7_days">Genomsnitt senaste 7 dagarna</string>
+    <string name="average_this_month">Genomsnitt den här månaden</string>
+    <string name="background_color">Bakgrundsfärg:</string>
+    <string name="close">stäng</string>
+    <string name="data_saved">Data sparad i %s</string>
+    <string name="entries_ignored">%d poster ignorerades eftersom de inte innehöll valid data</string>
+    <string name="entries_imported">%d poster importerade</string>
+    <string name="entries_overwritten">%d poster skrevs över med importerad data</string>
+    <string name="error_external_storage_not_available">Fel: Extern lagring inte tillgänglig</string>
+    <string name="error_file">Fel vid filåtkomst: %s</string>
+    <string name="export_summary">Spara data i CSV-format</string>
+    <string name="export_title">Exportera/Säkerhetskopiera</string>
+    <string name="faq">FAQ</string>
+    <string name="file_already_exists">Filen existerar redan. Är du säker på att du vill skriva över den?</string>
+    <string name="file_cant_read">Fel: %s kan inte läsas</string>
+    <string name="goal">Mål</string>
+    <string name="goal_reached_notification">Mål nått! %s steg hittills</string>
+    <string name="goal_summary">Nuvarande mål: %,d steg</string>
+    <string name="import_summary">Importera tidigare sparad data</string>
+    <string name="import_title">Importera/Återställa</string>
+    <string name="leaderboard">Topplistor</string>
+    <string name="no_sensor">Sensor hittades inte</string>
+    <string name="no_sensor_explain">Denna app kräver en dedikerad stegräknare i hårdvara, som din enhet saknar. Den här appen kan inte köra på din enhet.</string>
+    <string name="no_split_active">Ingen delad räknare aktiv. Tryck start för att räkna stegen från och med nu</string>
+    <string name="notification">Visa notifiering</string>
+    <string name="notification_settings">Notifieringsinställningar</string>
+    <string name="notification_text">%s steg kvar</string>
+    <string name="notification_title">Pedometer är aktiv</string>
+    <string name="permission_external_storage">Saknar tillstånd att komma åt extern lagring</string>
+    <string name="please_sign_in_with_your_google_account">Logga in med ditt konto på Google+ för att använda den här funktionen.</string>
+    <string name="record">Rekord</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="set_goal">Ange mål</string>
+    <string name="set_step_size">Ange steglängd</string>
+    <string name="settings">Inställningar</string>
+    <string name="sign_in">Logga in med ditt Googlekonto för att använda prestationer och topplistor</string>
+    <string name="sign_in_necessary">Inloggning nödvändig</string>
+    <string name="sign_out">Logga ut</string>
+    <string name="signed_in">Inloggad som %s</string>
+    <string name="since">Sedan %s</string>
+    <string name="split_count">Dela räknare</string>
+    <string name="start">Start</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="step_size">Steglängd</string>
+    <string name="step_size_summary">Nuvarande steglängd: %1$.2f %2$s</string>
+    <string name="steps">steg</string>
+    <string name="stop">Stopp</string>
+    <string name="text_color">Textfärg:</string>
+    <string name="total">Totalt</string>
+    <string name="total_last_7_days">Totalt senaste 7 dagarna</string>
+    <string name="total_this_month">Totalt den här månaden</string>
+    <string name="your_progress_will_be_shown_here_soon">Dina framsteg kommer att visas här snart</string>
+</resources>

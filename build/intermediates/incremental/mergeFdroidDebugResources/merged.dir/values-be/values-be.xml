@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перайсці на галоўную старонку"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перайсці ўверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Дадатковыя параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Гатова"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Прагледзець усё"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбраць праграму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВЫКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Выдалiць запыт"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Запыт на пошук"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Адправіць запыт"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Галасавы пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Абагуліць з"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Абагуліць праз праграму <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згарнуць"</string>
+    <string name="about">Звесткі</string>
+    <string name="about_app_version">Версія прыкладання: %s</string>
+    <string name="about_text_links">Гэтае прыкладанне своранае Thomas Hoffmann (<a href="https://www.j4velin.de">www.j4velin.de</a>) і выкарыстоўвае <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a>, створаную Paul Cech і <a href="https://github.com/attenzione/android-ColorPickerPreference">ColorPickerPreference</a>, створаную Sergey Margaritov.\n\nPedometer — праграма з адкрытым кодам! Атрымаць зыходны код і поўны спіс удзельнікаў можна на <a href="https://github.com/j4velin/Pedometer">GitHub</a>.\n\n</string>
+    <string name="account">Конт</string>
+    <string name="achievements">Дасягненні</string>
+    <string name="app_name">Pedometer</string>
+    <string name="average">Сярэдняе</string>
+    <string name="average_last_7_days">Сярэдняе за апошнія 7 дзён</string>
+    <string name="average_this_month">Сярэдняе за месяц</string>
+    <string name="background_color">Колер фону:</string>
+    <string name="close">закрыць</string>
+    <string name="data_saved">Даныя захаваныя ў %s</string>
+    <string name="entries_ignored">%d запісаў праігнаравана, бо яны не змяшчаюць правільных даных</string>
+    <string name="entries_imported">%d запісаў імпартавана</string>
+    <string name="entries_overwritten">%d запісаў перазапісана імпартаванымі данымі</string>
+    <string name="error_external_storage_not_available">Памылка: змешняе сховішча недаступнае</string>
+    <string name="error_file">Памылка доступу да файла: %s</string>
+    <string name="export_summary">Захоўвае вашы даныя ў CSV-файл</string>
+    <string name="export_title">Экспарт/Рэзерваванне</string>
+    <string name="faq">FAQ</string>
+    <string name="file_already_exists">Файд існуе. Вы ўпэўненыя, што хочаце перазапісаць яго?</string>
+    <string name="file_cant_read">Памылка: %s не чытаецца</string>
+    <string name="goal">Мэта</string>
+    <string name="goal_reached_notification">Мэта дасягнутая! %s крокаў і іх колькасць расце</string>
+    <string name="goal_summary">Дзейная мэта: %,d крокаў</string>
+    <string name="import_summary">Імпартуе раней захаваныя даныя</string>
+    <string name="import_title">Імпарт/Аднаўленне</string>
+    <string name="leaderboard">Лідары</string>
+    <string name="no_sensor">Датчык не знойдзены</string>
+    <string name="no_sensor_explain">Гэтае прыкладанне патрабуе адмысловы апаратны датчык крокаў, якога няма на вашай прыладзе. Гэтае прыкладанне не будзе працаваць на вашай прыладзе.</string>
+    <string name="no_split_active">Адасоблены лічыльнік неактыўны. Націсніце «пачаць», каб лічыць крокі адсюль.</string>
+    <string name="notification">Паказваць абвесткі</string>
+    <string name="notification_settings">Налады абвестак</string>
+    <string name="notification_text">%s крокаў да мэты</string>
+    <string name="notification_title">Pedometer лічыць крокі</string>
+    <string name="permission_external_storage">Няма дазволу для доступу да знешняга сховішча</string>
+    <string name="please_sign_in_with_your_google_account">Калі ласка, зайдзіце пад вашым Google+-контам каб скарыстацца гэтай магчымасцю.</string>
+    <string name="record">Рэкорд</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
+    <string name="set_goal">Задаць мэту</string>
+    <string name="set_step_size">Задаць даўжыню кроку</string>
+    <string name="settings">Налады</string>
+    <string name="sign_in">Зайсці пад вашым Google-контам, каб выконваць Дасягненні і бачыць табліце лідараў</string>
+    <string name="sign_in_necessary">Уваход неабходны</string>
+    <string name="sign_out">Выйсці</string>
+    <string name="signed_in">Зайсці як %s</string>
+    <string name="since">Пачанаючы з %s</string>
+    <string name="split_count">Адасобіць лічыльнік</string>
+    <string name="start">Пачаць</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"больш за 999"</string>
+    <string name="step_size">Даўжыня кроку</string>
+    <string name="step_size_summary">Дзейная даўжыня: %1$.2f %2$s</string>
+    <string name="steps">крокі</string>
+    <string name="stop">Спыніць</string>
+    <string name="text_color">Колер тэксту:</string>
+    <string name="total">Усяго</string>
+    <string name="total_last_7_days">Усяго за апошнія 7 дзён</string>
+    <string name="total_this_month">Усяго за месяц</string>
+    <string name="your_progress_will_be_shown_here_soon">Ваш прагрэс будзе паказаны тут у бліжэйшы час</string>
+</resources>
